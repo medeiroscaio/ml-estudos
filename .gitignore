@@ -5,3 +5,4 @@ pycache/
 env/
 .venv/
 pandas/data.csv
+projeto-survey-2019/results2019.csv
