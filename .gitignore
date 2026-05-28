@@ -6,3 +6,4 @@ env/
 .venv/
 pandas/data.csv
 projeto-survey-2019/results2019.csv
+projeto-survey-2019/data2019.csv
